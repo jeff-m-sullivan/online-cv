@@ -81,25 +81,28 @@ projects:
 
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: 2019 Journal Publications
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Medication adherence as a measure of the quality of care provided by physicians
+        authors: Seth A. Seabury, J. Samantha Doughtery, and Jeff Sullivan
+        conference: The American Journal of Managed Care, 25(2):78–83, February 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Lifetime benefits of early detection and treatment of diabetic kidney disease
+        authors: Julia Thornton Snider, Jeffrey Sullivan, Emma van Eijndhoven, Michael K. Hansen, Nobel Bellosillo, Cheryl Neslusan, Ellen OBrien, Ralph Riley, Seth Seabury, and Bertram L. Kasiske
+        conference: PLOS ONE, 14(5):1–13, 05 2019. doi: 10.1371/journal.pone.0217487. URL https://doi.org/10.1371/journal.pone.0217487.
 
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
+    title: 2019 Conference Publications
+    
+    papers:
+      - title: THE SOCIETAL BURDEN OF PRODROMAL ALZHEIMER’S DISEASE IN THE UNITED STATES 
+        authors: Kunal Saxena; Jeff Sullivan; Rezaul Karim Khandker; Alison Sexton Ward; Christopher M. Black; Alison R. Silverstein; Emma van Eijndhoven; Baishali Ambegaonkar; Peter Neumann
+        conference: ISPOR 2019. Award Finalist.
+    
 skills:
     title: Skills &amp; Proficiency
 
