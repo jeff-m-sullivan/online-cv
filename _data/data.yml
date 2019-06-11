@@ -63,41 +63,17 @@ experiences:
          including data management, regression analysis, and microsimulation.
          
          I am also responsible for maintaining PHE's analytic infrastructure,
-         which includes software, hardware, and databases. 
-
-          - title: Forecasting
-            link: "https://www.precisionmedicinegrp.com/phe/services/key-topics/forecasting-outcomes-costs-and-trade-offs/"
-            tagline: "Long-term forecasts of health outcomes and the value of innovation."
-          - https://www.precisionmedicinegrp.com/phe/services/methods/advanced-models-and-simulations/
-
+         which includes software, hardware, and databases.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Work-related projects that have been made public.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: The Health Economics Medical Innovation Simulation
+        link: "https://www.precisionmedicinegrp.com/phe/services/methods/advanced-models-and-simulations/"
+        tagline: "Projecting the health and wellbeing of the US population under alternative futures."
 
 publications:
     title: Publications
