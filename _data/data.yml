@@ -81,7 +81,7 @@ projects:
 
 
 publications:
-    title: Journal Publications
+    title: Selected Journal Publications
 
     papers:
       - title: Medication adherence as a measure of the quality of care provided by physicians
@@ -92,21 +92,9 @@ publications:
         authors: Julia Thornton Snider, Jeffrey Sullivan, Emma van Eijndhoven, Michael K. Hansen, Nobel Bellosillo, Cheryl Neslusan, Ellen OBrien, Ralph Riley, Seth Seabury, and Bertram L. Kasiske
         conference: "PLOS ONE, 14(5):1–13, 05 2019. doi: 10.1371/journal.pone.0217487. URL https://doi.org/10.1371/journal.pone.0217487."
 
-      - title: The long-term health and economic value of improved mobility among older adults in the United States
-        authors: Mina Kabiri, Michelle Brauer, Jason Shafrin, Jeff Sullivan, Thomas M. Gill, and Dana P. Goldman
-        conference: "Value in Health, 2018. ISSN 1098-3015. doi: https://doi.org/10.1016/j.jval.2017.12.021"
-        
-      - title: Measuring sarcopenia severity in older adults and the value of effective interventions
-        authors: Joanna Parks MacEwan, T.M. Gill, K. Johnson, Jason Doctor, Jeff Sullivan, Jinjoo Shim, and Dana P. Goldman
-        conference: The Journal of Nutrition Health and Aging, September 2018
-        
       - title: The well-being of long-term cancer survivors
         authors: Jeffrey Sullivan, Julia Thornton Snider, Emma van Eijndhoven, Tony Okoro, Manan Shah, Katharine Batt, and Thomas DeLeire
         conference: The American Journal of Managed Care, 24(4), April 2018
-        
-      - title: The relationship between adherence and total spending among medicare beneficiaries with type 2 diabetes
-        authors: Joanna P. MacEwan, John J. Sheehan, Wes Yin, Jacqueline Vanderpuye-Orgle, Jeffrey Sullivan, Desi Peneva, Iftekhar Kalsekar, , and Anne L. Peters
-        conference: The American Journal of Managed Care, 23(4), April 2017
         
       - title: The long-term impact of price controls in Medicare Part D
         authors: Gigi Moreno, Emma van Eijndhoven, Jennifer Benner, and Jeffrey Sullivan
@@ -119,34 +107,6 @@ publications:
       - title: The effect of medication nonadherence on progression-free survival among patients with renal cell carcinoma
         authors: Jason Shafrin, Jeffrey Sullivan, Jacquelyn W Chou, Michael N Neely, Justin F Doan, and J Ross Maclean
         conference: Cancer Management and Research, 9:731–739, November 2017
-        
-      - title: Clinical evidence inputs to comparative effectiveness research could impact the development of novel treatments
-        authors: Michael R Eber, Dana P Goldman, Darius N Lakdawalla, Tomas J Philipson, Daryl Pritchard, Marco Huesch, Nicholas Summers, Mark T Linthicum, Jeff Sullivan, and Robert W Dubois
-        conference: Journal of Comparative Effectiveness Research, 4(3):201–213, 2015
-        
-      - title: Medication adherence and measures of health plan quality
-        authors: Seth A. Seabury, Darius N. Lakdawalla, J. Samantha Dougherty, Jeff Sullivan, and Dana P. Goldman
-        conference: "American Journal of Managed Care, 21(6): e379 – e389, July 2015"
-        
-      - title: Identifying patients at risk for high medical costs and good candidates for obesity intervention
-        authors: Julia Thornton Snider, Katalin Bognar, Denise Globe, Daisy Ng-Mak, Jeff Sullivan, Nicholas Summers, , and Dana Goldman
-        conference: "American Journal of Health Promotion, 28(4):218–227, March 2014. doi: 10.4278/ajhp.121116-QUAN-561"
-        
-      - title: "The association between employee obesity and employer costs: Evidence from a panel of u.s. employers"
-        authors: Karen Van Nuys, Denise Globe, Daisy Ng-Mak, Hoiwan Cheung, Jeff Sullivan, and Dana Goldman
-        conference: American Journal of Health Promotion, 28(5), May 2014
-        
-      - title: Three large-scale changes to the Medicare program could curb its costs but also reduce enrollment
-        authors: Christine Eibner, Dana P. Goldman, Jeffrey Sullivan, and Alan M. Garber
-        conference: "Health Affairs, 32(5):891–899, May 2013"
-        
-      - title: Substantial health and economic returns from delayed aging may warrant a new focus for medical research
-        authors: Dana P. Goldman, David Cutler, John W. Rowe, Pierre-Carl Michaud, Jeffrey Sullivan, Desi Peneva, and S. Jay Olshansky
-        conference: Health Affairs, 32(10), October 2013
-        
-      - title: Measuring the value of better diabetes management
-        authors: Darius N. Lakdawalla, PhD, Michael R. Eber, BSE, Felicia M. Forma, BSc, Jeffrey Sullivan, MS, Pierre-Carl Michaud, PhD, Lily A. Bradley, MBA, and Dana P. Goldman, PhD
-        conference: Evidence-Based Diabetes Management, 19, April 2013
         
       - title: "Evolution or revolution? The rise of UAVs"
         authors: Jeff Sullivan
