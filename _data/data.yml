@@ -65,7 +65,9 @@ experiences:
          I am also responsible for maintaining PHE's analytic infrastructure,
          which includes software, hardware, and databases. 
 
-          - https://www.precisionmedicinegrp.com/phe/services/key-topics/forecasting-outcomes-costs-and-trade-offs/
+          - title: Forecasting
+            link: "https://www.precisionmedicinegrp.com/phe/services/key-topics/forecasting-outcomes-costs-and-trade-offs/"
+            tagline: "Long-term forecasts of health outcomes and the value of innovation."
           - https://www.precisionmedicinegrp.com/phe/services/methods/advanced-models-and-simulations/
 
 
